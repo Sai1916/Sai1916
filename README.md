@@ -2,8 +2,8 @@
 ## I am Sai Sumedh 🤵🚀
 
 
-- 🔭 I’m currently working on Netflix Colne using React Native
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working on developing Javascript Libraries in HarmonyOS
+- 🌱 I’m currently learning HarmonyOS
 - 💬 Ask me about React.js
 - 📫 How to reach me: saisumedh16@gmail.com
 
