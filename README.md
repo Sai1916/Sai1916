@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Andhra Pradesh, India<br><br>- 🔭 I’m working as React.js Developer<br>- 📚 I'm currently working with few libraries to implement cool features in web apps and mobile apps.<br>- ⚡ In my free time I build applications with amazing tech-stack. (React.js / React-Native Expo, Firebase / Appwrite)</p>
+<p align="left">I'm from Buffalo, New York, United States<br><br>- 🔭 I’m currently pursuing my Master's in Computer Science<br>- 📚 I'm working with few libraries to implement cool features in web apps and mobile apps.<br>- ⚡ In my free time I build applications with amazing tech-stack. (React.js / React-Native Expo, Firebase / Appwrite)</p>
 
 ###
 
